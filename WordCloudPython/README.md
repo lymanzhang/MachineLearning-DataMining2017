@@ -101,6 +101,7 @@ imColor = ImageColorGenerator(im)
 # 使用jupyter notebook使用，否则请注释掉
 % matplotlib inline
 plt.imshow(wc)
+wc.to_file(cwd+'\\beiying_new.PNG')
 plt.axis("off")
 plt.figure()
 plt.imshow(wc.recolor(color_func=imColor))
