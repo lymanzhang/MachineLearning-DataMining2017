@@ -18,6 +18,12 @@ from wordcloud import WordCloud,ImageColorGenerator
 
 上面三个就不讲了，`PIL`是`Python`的图像处理标准库，现在可以直接安装`Pillow`,想要了解更多的话请移步[廖雪峰老师的相关教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014320027235877860c87af5544f25a8deeb55141d60c5000)。剩下的`jieba`是我们今天要用做分词器用的，`wordcloud`自然就是制作词云的模块了。
 
+[jieba结巴中文分词安装](https://github.com/lymanzhang/jieba)
+
+[wordcloud在线安装](https://github.com/amueller/word_cloud)
+
+[wordcloud本地安装：wordcloud-1.3.2-cp36-cp36m-win_amd64.whl](http://www.lfd.uci.edu/~gohlke/pythonlibs/#wordcloud)
+
 首先，导入我们的文本文件，这里选用的是朱自清创作散文[《背影》](http://www.ccview.net/htm/xiandai/zzq/zzqsw003.htm)，在读取之前可以使用`NotePad++`等软件手工把文本转为`utf-8`格式，防止出现编码错误。
 
 ```python
