@@ -109,6 +109,7 @@ plt.figure()
 ```
 
 最后，把所有的代码拼起来运行一下，就可以得到如下的两张不同颜色的中文词云图。
+![beiying_new](https://github.com/lymanzhang/MachineLearning-DataMining2017/blob/master/WordCloudPython/image/beiying_new.PNG)
 
 参考资料来源：
 
