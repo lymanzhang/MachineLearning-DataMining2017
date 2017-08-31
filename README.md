@@ -1,7 +1,7 @@
 # MachineLearning-DataMining2017
 MachineLearning &amp; DataMining 2017
 
-## Python数据挖掘与机器学习础
+## [Python数据挖掘与机器学习础](https://github.com/lymanzhang/MachineLearning-DataMining2017/tree/master/Course01)
 - Python数据挖掘与机器学习技术概述
 - Python数据挖掘与机器学习技术应用场景
 - Python数据分析模块基础与数据导入实战
